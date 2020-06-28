@@ -1,0 +1,1 @@
+{"name": "Root", "children": [{"name": "feature 434 <= 0.0", "children": [{"name": "feature 99 <= 0.0", "children": [{"name": "Predict: 0.0"}]}, {"name": "feature 99 > 0.0", "children": [{"name": "Predict: 1.0"}]}]}, {"name": "feature 434 > 0.0", "children": [{"name": "Predict: 1.0"}]}]}
